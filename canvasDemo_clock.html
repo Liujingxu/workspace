@@ -120,9 +120,12 @@
                 ctx.restore();
 
                 var now = new Date();
-                var hour = now.getHours() > 12 ? now.getHours()-12 : now.getHours();
-                var minute = now.getMinutes();
                 var second = now.getSeconds();
+                var minute = now.getMinutes() + second/60;
+                var hour = now.getHours() > 12 ? now.getHours()-12 : now.getHours();
+                hour = hour + minute/60;
+
+                console.log(hour, minute, second);
 
                 ctx.save();
                 ctx.lineWidth = 5;
