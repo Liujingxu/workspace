@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c5401d-722a-4bf6-a3cc-235dd2484427" name="Default Changelist" comment="timeClock js file little demo">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testTimeClock.html" afterDir="false" />
+    <list default="true" id="a0c5401d-722a-4bf6-a3cc-235dd2484427" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvasDemo_clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvasDemo_clock.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,89 +17,130 @@
     <session id="-1425187644">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="8" />
-          <entry key="js" value="2" />
+          <entry key="html" value="12" />
+          <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="8" />
-          <entry key="JavaScript" value="2" />
+          <entry key="HTML" value="12" />
+          <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="345" />
-          <entry key="js" value="1469" />
-          <entry key="txt" value="126" />
+          <entry key="html" value="401" />
+          <entry key="js" value="2439" />
+          <entry key="txt" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="345" />
-          <entry key="JavaScript" value="1469" />
-          <entry key="PLAIN_TEXT" value="126" />
+          <entry key="HTML" value="401" />
+          <entry key="JavaScript" value="2439" />
+          <entry key="PLAIN_TEXT" value="189" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testTimeClock.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clock.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/canvasDemo_clock.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2716">
-              <caret line="133" column="56" lean-forward="true" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/base.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="924">
+                  <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testTimeClock.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="196">
+                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clock.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/canvasDemo_clock.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/msc.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="196">
+                  <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testMsc.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="368">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../js高级/canvasDemo_msc.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -120,6 +158,8 @@
         <option value="$PROJECT_DIR$/canvasDemo_clock.html" />
         <option value="$PROJECT_DIR$/clock.js" />
         <option value="$PROJECT_DIR$/testTimeClock.html" />
+        <option value="$PROJECT_DIR$/testMsc.html" />
+        <option value="$PROJECT_DIR$/msc.js" />
       </list>
     </option>
   </component>
@@ -139,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,15 +190,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/git/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js高级/canvasDemo_msc.html" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\html\webStorm\workspace\常用脚本\image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,7 +232,9 @@
       <workItem from="1543401597008" duration="1261000" />
       <workItem from="1550835228940" duration="3981000" />
       <workItem from="1550853574295" duration="503000" />
-      <workItem from="1550894933972" duration="8278000" />
+      <workItem from="1550894933972" duration="8391000" />
+      <workItem from="1551090548814" duration="65000" />
+      <workItem from="1551282981105" duration="3845000" />
     </task>
     <task id="LOCAL-00001" summary="timeClock version2">
       <created>1550837747684</created>
@@ -210,14 +257,22 @@
       <option name="project" value="LOCAL" />
       <updated>1550902386646</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="the work has down on 23rd Feb 2019">
+      <created>1550916677666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550916677666</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14057000" />
+    <option name="totallyTimeSpent" value="18080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17701453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,7 +285,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4993395" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4993395" visible="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006605" side_tool="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
@@ -306,19 +361,27 @@
     <MESSAGE value="timeClock version2" />
     <MESSAGE value="timeClock version3 add the way without canvas and delete the code not use" />
     <MESSAGE value="timeClock js file little demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="timeClock js file little demo" />
+    <MESSAGE value="the work has down on 23rd Feb 2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="the work has down on 23rd Feb 2019" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
+        <state relative-caret-position="924">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js高级/canvasDemo_msc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="336">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
@@ -326,14 +389,28 @@
     <entry file="file://$PROJECT_DIR$/testTimeClock.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/canvasDemo_clock.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2716">
-          <caret line="133" column="56" lean-forward="true" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
+        <state relative-caret-position="252">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testMsc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
         </state>
       </provider>
     </entry>
