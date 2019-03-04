@@ -26,10 +26,6 @@ window.onload = function () {
                 let positionX, positionY;
                 let borderWidth, borderHeight;
 
-                // let border = document.createElement('div');      // 实现边框
-                // border.appendChild(document.createTextNode('border'));
-                // const style = 'position: absolute;border: 1px solid red;text-indent: -9999px;';
-
                 this.onmousemove = function (ev) {
 
                  let moveX = ev.clientX;
@@ -51,13 +47,6 @@ window.onload = function () {
                         positionY = moveY;
                     }
 
-                    // 实现边框
-                    // border.style = style + 'width: ' + borderWidth + ';' +
-                    //                         'height: ' + borderHeight + ';' +
-                    //                         'left:' + positionX + ';' +
-                    //                         'top: ' + positionY + ';';
-                    //
-                    // document.body.appendChild(border);
 
                 };
 
